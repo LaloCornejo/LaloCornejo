@@ -1,11 +1,4 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
-<style>
-  body {
-    font-family: 'Poppins', sans-serif;
-  }
-  #banner {
+<div style="
   height: 300px;
   width: 100%;
   display: flex;
@@ -19,15 +12,7 @@
   background-repeat: no-repeat;
   overflow: hidden;
   position: relative;
-  }
-  #banner img {
-    position: absolute;
-    z-index: 0;
-    filter: blur(20px);
-  }
-</style>
-
-<div id="banner">
+">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F5xtDarpJpIPHFGJrRrG%2Fgiphy.gif&f=1&nofb=1&ipt=67c5c3440475680ded05721b442a54e5e0241b9596f00088ccb3b827ae881049&ipo=images" />
   <h1 style="
   position: absolute;
