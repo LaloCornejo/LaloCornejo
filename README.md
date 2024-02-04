@@ -28,9 +28,9 @@ Navigating uni stuff while dropping code on GitHub.
 #### Currently working on:
 
 <p>
-    <a href="https://github.com/LaloCornejo/Cplus.plus"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LaloCornejo&repo=Cplus.plus&hide_border=true&bg_color=1F222E&title_color=9745f5&icon_color=F8D866&theme=react&show_icons=true" alt="C++"></a>
-    <a href="https://github.com/LaloCornejo/lalocornejo.github.io"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LaloCornejo&repo=lalocornejo.github.io&hide_border=true&bg_color=1F222E&title_color=9745f5&icon_color=F8D866&theme=react&show_icons=true" alt="Site"></a>
-    <a href="https://github.com/LaloCornejo/Jva"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LaloCornejo&repo=Jva&hide_border=true&bg_color=1F222E&title_color=9745f5&icon_color=F8D866&theme=react&show_icons=true" alt="Java"></a>
+    <a href="https://github.com/LaloCornejo/Cplus.plus"><img width="32.9%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LaloCornejo&repo=Cplus.plus&hide_border=true&bg_color=1F222E&title_color=9745f5&icon_color=F8D866&theme=react&show_icons=true" alt="C++"></a>
+    <a href="https://github.com/LaloCornejo/lalocornejo.github.io"><img width="32.9%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LaloCornejo&repo=lalocornejo.github.io&hide_border=true&bg_color=1F222E&title_color=9745f5&icon_color=F8D866&theme=react&show_icons=true" alt="Site"></a>
+    <a href="https://github.com/LaloCornejo/Jva"><img width="32.9%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LaloCornejo&repo=Jva&hide_border=true&bg_color=1F222E&title_color=9745f5&icon_color=F8D866&theme=react&show_icons=true" alt="Java"></a>
 </p>
 
 #### My activity:
