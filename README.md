@@ -23,7 +23,7 @@ Navigating uni stuff while dropping code on GitHub.
 
 <p align="center">
   <a align="center" href="https://github.com/LaloCornejo" type="_blank">
-    <img width="60%" src="http://github-readme-streak-stats.herokuapp.com/?user=LaloCornejo&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&">
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=LaloCornejo&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly">
   </a>
 </p>
 
