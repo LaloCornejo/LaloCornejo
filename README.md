@@ -20,24 +20,8 @@ Navigating uni stuff while dropping code on GitHub.
   </a>
 </p>
 
-## 📊 GitHub Activity
-#### Currently working on:
 
-<p align="center">
-    <a href="https://github.com/LaloCornejo/Cplus.plus"><img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LaloCornejo&repo=Cplus.plus&hide_border=true&bg_color=1F222E&title_color=9745f5&icon_color=F8D866&theme=react&show_icons=true" alt="C++"></a>
-    <img width="10px"/>
-    <a href="https://github.com/LaloCornejo/lalocornejo.github.io"><img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LaloCornejo&repo=lalocornejo.github.io&hide_border=true&bg_color=1F222E&title_color=9745f5&icon_color=F8D866&theme=react&show_icons=true" alt="Site"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/LaloCornejo/Jva"><img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LaloCornejo&repo=Jva&hide_border=true&bg_color=1F222E&title_color=9745f5&icon_color=F8D866&theme=react&show_icons=true" alt="Java"></a>
-</p>
-
-#### My activity:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaloCornejo&radius=16&theme=synthwave-84&area=true&order=5&hide_border=true" width="98%" alt="activity-graph graph" />
-</p>
-
-### 🛠️ Languages & Tools
+### Languages & Tools
 
   <p align="center">
       <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="25" alt="raspberrypi logo"  />
@@ -66,4 +50,13 @@ Navigating uni stuff while dropping code on GitHub.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaloCornejo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2&bg_color=1F222E&title_color=9745f5&icon_color=F8D866&show_icons=true" height="20%" alt="languages graph" />
+</p>
+
+## GitHub Activity
+#### Currently working on:
+
+<p align="center">
+    <a href="https://github.com/LaloCornejo/JARVIS"><img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LaloCornejo&repo=JARVIS&hide_border=true&bg_color=1F222E&title_color=9745f5&icon_color=F8D866&theme=react&show_icons=true" alt="C++"></a>
+    <img width="10px"/>
+    <a href="https://github.com/LaloCornejo/lalocornejo.github.io"><img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LaloCornejo&repo=lalocornejo.github.io&hide_border=true&bg_color=1F222E&title_color=9745f5&icon_color=F8D866&theme=react&show_icons=true" alt="Site"></a>
 </p>
