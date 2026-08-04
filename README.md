@@ -10,8 +10,6 @@ Navigating uni stuff while dropping code on GitHub.
   </a>
 </p>
 
-
-## GitHub Activity
 #### Currently working on:
 
 <p align="center">
