@@ -2,18 +2,8 @@
 # L Æ L Ö
 
 Navigating uni stuff while dropping code on GitHub.
-<p align="right">
-<img  width="20%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fr34porn.net%2Fwp-content%2Fuploads%2F2018%2F08%2Fshigure-goddess.gif&f=1&nofb=1&ipt=5671a67d05f34cd94d6a90cae4f0af15e3f177a059792912710259e07e1d70bb&ipo=images" />
-</p>
 
 ## GitHub 
-
-<p align="center">
-  <a align="center" href="https://github.com/LaloCornejo" type="_blank">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=LaloCornejo&theme=midnight-purple&hide_border=true&">
-  </a>
-</p>
-
 <p align="center">
   <a align="center" href="https://github.com/LaloCornejo" type="_blank">
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=LaloCornejo&theme=midnight-purple&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly">
